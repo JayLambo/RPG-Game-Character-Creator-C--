@@ -1,8 +1,4 @@
-//MAIN
-        // *************************************************************
-// main function declaration to run the class funcitons
-// DO NOT MODIFY THIS FILE
-// **************************************************************
+
 
 #include <iostream>
 #include <string>

@@ -1,11 +1,4 @@
-//IMPLEMENTATION
 
-// **************************************************************
-//
-// **********  DO NOT MODIFY ANYTHING IN THIS SECTION
-//
-// solution cpp file for project 11
-// all helper function definitions go in this file
 
 #include <iostream>
 #include <string>
