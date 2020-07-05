@@ -1,0 +1,47 @@
+﻿  P10_main.cpp
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(154,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(155,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(164,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(167,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(185,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(186,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(195,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(198,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(212,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(228,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(229,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(239,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(242,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(263,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(264,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(274,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(277,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(292,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(293,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(303,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(306,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(334,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(335,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(345,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(348,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(363,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(364,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(374,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(377,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(404,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(405,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(414,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(417,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(435,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(436,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(445,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(448,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(462,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(478,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(479,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(489,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(492,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(514,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambo\source\repos\P10\P10\P10_main.cpp(515,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  P10.vcxproj -> C:\Users\lambo\source\repos\P10\Debug\P10.exe

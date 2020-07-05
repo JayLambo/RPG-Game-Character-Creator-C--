@@ -1,0 +1,13 @@
+Character 1
+Jay
+--------------------------
+Attack: 145.6
+Defense: 135.8
+Magic: 112
+Magic Defense: 114.8
+Health: 147
+Speed: 121.8
+Dexterity: 119
+Intelligence: 102.2
+Accuracy: 109.2
+Endurance: 117.6
