@@ -10,8 +10,7 @@
 
 using namespace std;
 
-// enumeration data type to use in switch statement in
-// helper function WriteNameFormat
+
 
 
 class Character
